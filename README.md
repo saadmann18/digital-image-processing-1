@@ -3,8 +3,6 @@
 **University:** University of Paderborn  
 **Semester:** Winter Semester 2021-2022  
 **Course:** Digital Image Processing I (DIP I)  
-**Instructor:** Prof. Dr. Dietmar Kunz  
-**Student:** Saad Mann  
 
 ## Course Overview
 
