@@ -191,7 +191,6 @@ Potential areas for further study:
 ## Acknowledgments
 
 Special thanks to:
-- Prof. Dr. Dietmar Kunz for excellent instruction and guidance
 - University of Paderborn for providing computational resources
 - Teaching assistants for valuable feedback and support
 
